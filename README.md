@@ -1,6 +1,6 @@
 ### "Olá Dev!" \o/ 👋
 
-My name is Julio Zittei, and I'm from Brazil (🇧🇷 ). I'm graduated in systems analysis and development since 2017 at Impacta college of technology. In my spare time I like to play video games, watch movies and series ( 🎥  🕹 ). I also like to travel, especially to other countries. Here are some countries that I've already visited: United States of America (🇺🇸 ) and Canada (🇨🇦 ).
+My name is Julio Zittei, and I'm from Brazil (🇧🇷 ). I'm graduated in systems analysis and development since 2017 at Impacta college of technology. In my spare time I like to play video game, watch movies and series ( 🎥  🕹 ). I also like to travel, especially to other countries. Here are some countries that I've already visited: United States of America (🇺🇸 ) and Canada (🇨🇦 ).
 
  🏦 I'm currently working in the fraud prevention department at Bradesco bank.<br/>
  👨🏻‍💻 I’m currently learning front-end . I'm studyng HTML, CSS JavasScript, React, Next.js and other stuffs.
