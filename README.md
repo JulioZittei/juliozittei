@@ -3,7 +3,7 @@
 My name is Julio Zittei, and I'm from Brazil (🇧🇷 ). I'm graduated in systems analysis and development since 2017 at Impacta college of technology. In my spare time I like to play video game, watch movies and series ( 🎥  🕹 ). I also like to travel, especially to other countries. Here are some countries that I've already visited: United States of America (🇺🇸 ) and Canada (🇨🇦 ).
 
  🏦 I'm currently working as Java Developer at Bradesco Bank.<br/>
- 👨🏻‍💻 I’m currently studying Algaworks Spring Rest Specialist course.
+
  
  
  Would you like to find me?
